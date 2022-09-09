@@ -1,0 +1,19 @@
+#Lista {
+    overflow-y: scroll;
+    height: 20rem;
+}
+#Navbar-custom {
+    background: #EE5601;
+}
+#Navbar-text {
+    color: white;
+}
+footer {
+    background-color: #EE5601;
+    text-align: center;
+    padding: 30px;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
